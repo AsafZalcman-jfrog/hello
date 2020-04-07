@@ -1,0 +1,6 @@
+use_frameworks!
+target 'hello_Tests' do
+  pod 'hello', :path => '../'
+  
+  
+end
