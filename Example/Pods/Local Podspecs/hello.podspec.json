@@ -1,0 +1,22 @@
+{
+  "name": "hello",
+  "version": "0.1.0",
+  "summary": "A short description of hello.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/AsafZalcman-jfrog/hello",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "AsafZalcman-jfrog": "asafz@jfrog.com"
+  },
+  "source": {
+    "git": "https://github.com/AsafZalcman-jfrog/hello.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "osx": "10.10"
+  },
+  "source_files": "hello/Classes/**/*"
+}
